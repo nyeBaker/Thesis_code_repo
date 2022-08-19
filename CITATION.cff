@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Baker"
+  given-names: "Aneirin"
+  orcid: "https://orcid.org/0000-0003-2703-8036"
+- family-names: "Hartmann"
+  given-names: "Michael"
+  orcid: "https://orcid.org/0000-0002-8207-3806"
+title: "Thesis Code"
+version: 1.0.0
+date-released: 2022-02-02
+url: "https://github.com/nyeBaker/Thesis_code_repo/"
